@@ -1,0 +1,13 @@
+{
+ "name": "Sandeep",
+ "location": "Hyderabad",
+ "bio": "Love to break into websites and secure them",
+ "avatar": "https://github.com/s4ndy758.png",
+ "portfolio": "https://github.com/S4ndy758",
+ "skills": ["VAPT", "Network Pentesting"],
+ "social": {
+   "GitHub": "https://github.com/S4ndy758",
+   "Twitter": "https://twitter.com/darkrider758",
+   "LinkedIn": "https://www.linkedin.com/in/sandeep-kambhampati-/"
+ }
+}
